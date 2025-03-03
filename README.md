@@ -1,6 +1,6 @@
 # 🔬 GeoHealth Lab
 
-The GeoHealth Lab at the University of Hong Kong Department of Geography, led by Prof. Yanjia Cao, is offering a Ph.D. position and a MPhil position, both fully funded, in Health Geography for Fall 2025.
+The GeoHealth Lab at the University of Hong Kong Department of Geography, led by Prof. Yanjia Cao
 
 - 🏆 Department ranking: 2nd in Asia and 14th globally in the 2024 QS World University Rankings
 - 🌍 Exceptional academic environment for groundbreaking research in health geography
