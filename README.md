@@ -1,9 +1,5 @@
-# 🔬 GeoHealth Lab
-
-The GeoHealth Lab at the University of Hong Kong Department of Geography, led by Prof. Yanjia Cao
-
-- 🏆 Department ranking: 2nd in Asia and 14th globally in the 2024 QS World University Rankings
-- 🌍 Exceptional academic environment for groundbreaking research in health geography
+# 🔬 Geo-Wellness and Informatics Lab
+The Geo-Wellness and Informatics Lab at the University of Hong Kong Department of Geography, led by Prof. Yanjia Cao
 
 ## 🔍 Research Interests
 
